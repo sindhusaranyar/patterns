@@ -1,4 +1,4 @@
-var x=9;
+var x=userInput[0];
 var y="";
 for(var i=0;i<=x;i++){
     for(var j=0;j<i;j++)
